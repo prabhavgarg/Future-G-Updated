@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295115085148",
+    "project_id": "future-g-10285",
+    "storage_bucket": "future-g-10285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295115085148:android:00c4ba145715c19516dd99",
+        "android_client_info": {
+          "package_name": "com.gargprabhav.future_g"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295115085148-ckr94t47nrmh6ci7cchrco9b0jhbga1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7GRJSrCjzoKntEq5QbtJ5fRd2Od_0VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295115085148-ckr94t47nrmh6ci7cchrco9b0jhbga1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
