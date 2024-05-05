@@ -1,0 +1,8 @@
+![Screenshot from 2024-05-05 18-41-57](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/755502ba-35d3-4626-9182-087e20104311)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/b7d4e266-7fd6-4943-8ca0-b2b4a71d9ab6)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/27b6d68c-963f-4428-9262-6c11b952958f)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/8165e5ee-b44f-4998-b473-91ac276e9425)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/e1b0b27b-116d-47d6-a812-bdd3b64ae2e7)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/30df6635-6102-4164-989c-2b155513d410)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/b652aa36-24c1-4027-9e42-bdb1c149fe4b)
+![image](https://github.com/prabhavgarg/Future-G-Updated/assets/21111506/2cf6e7a6-b244-459a-bb9c-b21bf781c8eb)
